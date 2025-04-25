@@ -1,3 +1,5 @@
+[![MseeP Badge](https://mseep.net/pr/windiechai-confluence-wiki-mcp-server-extension-badge.jpg)](https://mseep.ai/app/windiechai-confluence-wiki-mcp-server-extension)
+
 # Confluence Wiki MCP Server Extension
 
 A VSCode/Cursor extension providing an MCP Server for Confluence Wiki integration.
